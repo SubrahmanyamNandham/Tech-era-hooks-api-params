@@ -1,0 +1,14 @@
+.logo {
+  width: 12vw;
+  height: 8vh;
+  margin-left: 20px;
+}
+
+.nav {
+  width: 100vw;
+  height: 10vh;
+  background-color: lightgray;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
